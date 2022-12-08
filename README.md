@@ -13,7 +13,6 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 - Responsible for identifying, fixing, debugging, solving and escalating strategic customers' technical issues on Hologram's cellular network.
 - Responsible for automation and improvement of processes, tools and monitoring tasks to optimize, scale and improve work at Hologram.
 - Responsible for training new members of the Solutions Engineering team.
-<br>
 
 **Solutions Engineer** _(Jul 2021 - Jun 2022) - NY, USA_ <br>
 - Responsible for configuration, operation, monitoring, maintenance, optimization and deployment of Hologram's software and hardware tools on customer's devices.
