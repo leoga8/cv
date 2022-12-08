@@ -4,6 +4,7 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 [LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Twitter](https://twitter.com/LeonardoGurria)
 
+
 # 🧑‍💻 Experience
 
 @ [Hologram Inc.](https://www.hologram.io/) _(Jul 2021 - Present)_ <br>
@@ -59,7 +60,7 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 <br>
 
-@ [Grupo Financiero Banorte](https://www.banorte.com/) _(Feb 2013 – Dec 2013)_ <br>
+@ [Dabarc Systems](https://www.syniti.com/) _(Feb 2013 – Dec 2013)_ <br>
 > **Data Consultant** _(Feb 2013 – Dec 2013) - Mexico City, Mexico_ <br>
 > Clients: [SAVI Distribuciones](https://www.linkedin.com/company/savi-distribuciones/), [ICA](https://ica.com.mx/), [Palacio de Hierro](https://www.elpalaciodehierro.com/), [Gobierno de Huixquilucan](http://www.huixquilucan.gob.mx/)
 > - Responsible for migration, enrichment, cleaning and manipulation of data including analysis and report generation using Microsoft SQL Server.
@@ -81,4 +82,22 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 # 🧑‍🎓 Education
 
+@ [EGADE Business School del Tecnológico de Monterrey](https://tec.mx/es/puebla)
+**Master of Business Administration (MBA), Strategy**
+_2013 – 2017_
+
+<br>
+
+@ [Tecnológico de Monterrey](https://tec.mx/es/cuernavaca)
+**Bachelor of Science - BS, Computer Science**
+_2008 – 2012_
+
+<br>
+
+
 # 🚧 Licenses & Certifications
+
+@ [Coursera](https://www.coursera.org/)
+**Machine Learning**
+- Issued Feb 2020
+- Credential ID W36QJ7MCVBUB
