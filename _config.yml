@@ -1,3 +1,15 @@
 theme: jekyll-theme-slate
 title: 💻✒️📄💡✅
 description: Leonardo Gurría's CV
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: https://twitter.com/LeonardoGurria
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/leonardogurria/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/leoga8
