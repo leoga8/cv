@@ -82,22 +82,22 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 # 🧑‍🎓 Education
 
-@ [EGADE Business School del Tecnológico de Monterrey](https://tec.mx/es/puebla)
-**Master of Business Administration (MBA), Strategy**
-_2013 – 2017_
+@ [EGADE Business School del Tecnológico de Monterrey](https://tec.mx/es/puebla) <br>
+**Master of Business Administration (MBA), Strategy** <br>
+_2013 – 2017_ <br>
 
 <br>
 
-@ [Tecnológico de Monterrey](https://tec.mx/es/cuernavaca)
-**Bachelor of Science - BS, Computer Science**
-_2008 – 2012_
+@ [Tecnológico de Monterrey](https://tec.mx/es/cuernavaca) <br>
+**Bachelor of Science - BS, Computer Science** <br>
+_2008 – 2012_ <br>
 
 <br>
 
 
 # 🚧 Licenses & Certifications
 
-@ [Coursera](https://www.coursera.org/)
-**Machine Learning**
+@ [Coursera](https://www.coursera.org/) <br>
+**Machine Learning** <br>
 - Issued Feb 2020
 - Credential ID W36QJ7MCVBUB
