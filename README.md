@@ -51,6 +51,32 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 <br>
 
+@ [Grupo Financiero Banorte](https://www.banorte.com/) _(Dec 2013 – Jun 2015)_ <br>
+> **Software Engineer** _(Dec 2013 – Jun 2015) - Mexico City, Mexico_ <br>
+>> - Responsible for managing the SQL Server databases which belonged to the Risk Department.
+>> - Responsible for process automation and data analysis utilizing Python and C#.
+>> - Responsible for utilizing the automated reports and charts to prepare high management presentations on a monthly basis
+
+<br>
+
+@ [Grupo Financiero Banorte](https://www.banorte.com/) _(Feb 2013 – Dec 2013)_ <br>
+> **Data Consultant** _(Feb 2013 – Dec 2013) - Mexico City, Mexico_ <br>
+>> Clients: [SAVI Distribuciones](https://www.linkedin.com/company/savi-distribuciones/), [ICA](https://ica.com.mx/), [Palacio de Hierro](https://www.elpalaciodehierro.com/), [Gobierno de Huixquilucan](http://www.huixquilucan.gob.mx/)
+>> - Responsible for migration, enrichment, cleaning and manipulation of data including analysis and report generation using Microsoft SQL Server.
+>> - Responsible for gathering client requirements to migrate their databases to their new SAP system.
+
+<br>
+
+@ [Tecnológico de Monterrey](https://tec.mx/es) _(Aug 2012 – Dec 2012)_ <br>
+> **Software Engineer Intern** _(Aug 2012 – Dec 2012) - Cuernavaca, Mexico_ <br>
+>> - Developed an Augmented Reality (AR) project for the teaching of how to balance chemical equations in Senior High School level, financed by Tecnológico de Monterrey, Campus Cuernavaca.
+
+<br>
+
+@ [Sistrategia](https://sistrategia.com/) _(Oct 2011 – Dec 2011)_ <br>
+> **Software Engineer Intern** _(Oct 2011 – Dec 2011) - Cuernavaca, Mexico_ <br>
+
+<br>
 
 
 # 🧑‍🎓 Education
