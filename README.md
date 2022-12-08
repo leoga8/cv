@@ -98,6 +98,6 @@ _2008 – 2012_ <br>
 # 🚧 Licenses & Certifications
 
 @ [Coursera](https://www.coursera.org/) <br>
-**Machine Learning** <br>
+**Machine Learning**
 - Issued Feb 2020
 - Credential ID W36QJ7MCVBUB
