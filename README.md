@@ -4,6 +4,7 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 [LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Twitter](https://twitter.com/LeonardoGurria) / [Resume](https://leoga8.github.io/cv/)
 
+<br>
 
 # 🧑‍💻 Experience
 
@@ -57,6 +58,7 @@ Clients: [SAVI Distribuciones](https://www.linkedin.com/company/savi-distribucio
 ### @ [Sistrategia](https://sistrategia.com/) _(Oct 2011 - Dec 2011)_ <br>
 **Software Engineer Intern** _(Oct 2011 - Dec 2011) - Cuernavaca, Mexico_ <br>
 
+<br>
 
 # 🧑‍🎓 Education
 
@@ -70,6 +72,7 @@ _2013 - 2017_ <br>
 **Bachelor of Science - BS, Computer Science** <br>
 _2008 - 2012_ <br>
 
+<br>
 
 # 🚧 Licenses & Certifications
 
