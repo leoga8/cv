@@ -2,7 +2,7 @@
 
 _Organized and motivated professional with 10+ years of experience seeking to leverage fast-paced problem solving through Software Engineering solutions and improvements_ <br>
 
-[LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Twitter](https://twitter.com/LeonardoGurria)
+[LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Twitter](https://twitter.com/LeonardoGurria) / [Resume](https://leoga8.github.io/cv/)
 
 
 # 🧑‍💻 Experience
