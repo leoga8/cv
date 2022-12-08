@@ -28,7 +28,7 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 
 ### @ [Tata Consultancy Services](https://www.tcs.com/) _(Jun 2015 - Oct 2017)_ <br>
 **Production Support Engineer** _(Jun 2015 - Oct 2017) - Multiple Locations_ <br>
-Clients: [Barclays](https://home.barclays/), [Bank of America](https://www.bankofamerica.com/), [Bank of America](https://www.bankofamerica.com/), [Bank of America](https://www.bankofamerica.com/)
+Clients: [Barclays](https://home.barclays/), [Bank of America](https://www.bankofamerica.com/), [Bank of America](https://www.bankofamerica.com/), [Bank of America](https://www.bankofamerica.com/) <br>
 Locations: Jersey City _(Sep 2016 - Aug 2017)_, NJ , Dallas, TX _(Jul 2016 - Aug 2016)_, Guadalajara, Mexico _(Sep 2017 - Oct 2017 / Jun 2015 - Jul 2016)_
 - Responsible for identifying, fixing, debugging, solving and escalating issues on critical applications as well as monitoring, automating and configuring processes (Technologies used: Unix, Oracle SQL, Autosys, ITRS Geneos).
 
