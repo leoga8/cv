@@ -80,3 +80,13 @@ _2008 - 2012_ <br>
 **Machine Learning** <br>
 _Issued Feb 2020_ <br>
 _Credential ID W36QJ7MCVBUB_ <br>
+
+<br>
+
+# 🌎 Languages
+
+### English <br>
+**Bilingual proficiency** <br>
+
+### Spanish <br>
+**Native** <br>
