@@ -85,8 +85,8 @@ _Credential ID W36QJ7MCVBUB_ <br>
 
 # 🌎 Languages
 
-### English <br>
+### 🇺🇸 English <br>
 **Bilingual proficiency** <br>
 
-### Spanish <br>
+### 🇲🇽 Spanish <br>
 **Native** <br>
