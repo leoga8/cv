@@ -2,7 +2,7 @@
 
 _Organized and motivated professional with 10+ years of experience seeking to leverage fast-paced problem solving through Software Engineering solutions and improvements_ <br>
 
-[LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Twitter](https://twitter.com/LeonardoGurria) / [Resume](https://leoga8.github.io/cv/)
+[LinkedIn](https://www.linkedin.com/in/leonardogurria/) / [GitHub](https://github.com/leoga8) / [Resume](https://leoga8.github.io/cv/)
 
 <br>
 
@@ -11,6 +11,7 @@ _Organized and motivated professional with 10+ years of experience seeking to le
 ### @ [Hologram Inc.](https://www.hologram.io/) _(Jul 2021 - Present)_ <br>
 **Senior Solutions Engineer** _(Jun 2022 - Present) - Remote/NY, USA_ <br>
 **Solutions Engineer** _(Jul 2021 - Jun 2022) - Remote/NY, USA_ <br>
+- Highest point of escalation for Enterprise customers and internal teams across Hologram
 - Responsible for configuration, operation, monitoring, maintenance, optimization and deployment of Hologram's software and hardware tools on customer's devices.
 - Responsible for identifying, fixing, debugging, solving and escalating strategic customers' technical issues on Hologram's cellular network.
 - Responsible for automation and improvement of processes, tools and monitoring tasks to optimize, scale and improve work at Hologram.
